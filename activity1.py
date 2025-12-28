@@ -1,2 +1,1 @@
-print(str.lower("CONGRATULATIONS"))
-print(str.upper("congratulations"))
+print("Hey John I am really happy about your victory! " + str.upper("congratulations"))
